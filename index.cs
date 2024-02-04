@@ -42,9 +42,9 @@ decimal zahirahScore = (decimal) zahirahSum / currentAssignments;
 decimal jeongScore = (decimal) jeongSum / currentAssignments;
 
 
-
-Console.WriteLine($"Sophia {sophiaScore}");
-Console.WriteLine($"Nicolas: {nicolasScore}");
-Console.WriteLine($"Zahirah: {zahirahScore}");
-Console.WriteLine($"Jeong: {jeongScore}");
+// OUTPUT
+Console.WriteLine($"Sophia: {sophiaScore} A");
+Console.WriteLine($"Nicolas: {nicolasScore} B");
+Console.WriteLine($"Zahirah: {zahirahScore} B");
+Console.WriteLine($"Jeong: {jeongScore} A");
 
