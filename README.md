@@ -22,6 +22,7 @@ Nicolas: 80, 83, 82, 88, 85
 Zahirah:   84, 96, 73, 85, 79
 
 Jeong:  90, 92, 98, 100, 97
+
 The teacher requires that the calculated grades for each student are displayed as follows:
 
 
@@ -32,6 +33,7 @@ Nicolas     83.6  B
 Zahirah     83.4  B
 Jeong       95.4  A
 Setup
+
 Use the following steps to prepare for the Guided project exercises:
 
 Open the .NET Editor coding environment.
